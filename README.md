@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Uanataca is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://uanataca.com/
+Uanataca is a digital identity and electronic signature solutions provider, operating under the Namirial group. It offers wallet services, onboarding, verification, and secure document signing for enterprises and public administrations, focusing on compliance and user-friendly integration across multiple languages.
+
+**Areas:** Company · DigitalIdentity · ElectronicSignature · Wallet · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://uanataca.com/)
+- [Documentation](https://developers.uanataca.com/)
+- [Getting started](https://documentation.namirial.com/onboarding)
+- [Blog](https://www.namirial.com/es/blog/)
+- [Trust centre](https://www.namirial.com/es/blog/trust/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/uanataca/](https://apis.io/providers/uanataca/).
